@@ -1,0 +1,17 @@
+body {
+  position: absolute;
+}
+.nav {
+  position: relative;
+}
+.navItem {
+  font-size: 18px !important;
+}
+.userIcon {
+  font-size: 40px !important;
+}
+.userName {
+  background: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}

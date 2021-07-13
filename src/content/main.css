@@ -1,0 +1,13 @@
+.header {
+    /* background-color: #323f40; */
+
+    min-height: 100% !important;
+    min-width: 100% !important;
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    /* background-image: linear-gradient(to right, #307ac9,#8df7f4); */
+    font-size: calc(10px + 2vmin);
+    color: white;
+    position: relative;
+  }

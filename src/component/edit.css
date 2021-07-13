@@ -1,0 +1,15 @@
+.editCard {
+  width: 100%;
+  text-align: center;
+}
+
+.editInput {
+  width: 200px !important;
+}
+.editCol {
+  display: inline-block;
+}
+.ant-form-item-control-input-content {
+  flex: 0 !important;
+  max-width: 0%;
+}
